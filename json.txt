@@ -32,7 +32,7 @@ for i in sorted(Cal_state):
     Ascending_CA_State.append(i)
     print i
     TimeStamps = []
-
+# gave timing function
 # Printing the Result in the Given Format
 print 'Final Output in the Given Format: \n\n'
 for i in range(len(Cal_state)):
